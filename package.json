@@ -3,7 +3,7 @@
   "displayName": "Remove column SQL insert",
   "publisher": "ghun131",
   "description": "Simple extension to remove sql insert statement",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/ghun131/rmcolsqlinsert"
