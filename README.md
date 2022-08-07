@@ -6,7 +6,7 @@ This extension helps you remove a column in long insert statement for `input.sql
 
 There is only one feature now which help you quickly remove a column of your SQL insert statement
 
-\!\[remove column in insert statement\]\(images/rmcol.gif\)
+![rmcol](https://user-images.githubusercontent.com/33661599/183280233-27c8e145-7afe-46ea-b7f9-9d2e05002cb0.gif)
 
 ## Requirements
 
