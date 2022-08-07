@@ -17,7 +17,7 @@ If you have any requirements or dependencies, add a section describing those and
 ### 0.0.1
 - Remove one column for one insert statement
 
-### 0.0.3
+### 0.0.4
 - Update README.md
 
 ---
