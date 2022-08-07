@@ -1,6 +1,7 @@
 {
   "name": "rmcolsqlinsert",
   "displayName": "rm-col-sql-insert",
+  "publisher": "ghun131",
   "description": "Simple extension to remove sql insert statement",
   "version": "0.0.1",
   "repository": {
